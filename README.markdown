@@ -12,7 +12,11 @@ The contest starts on 15th May, 5pm GMT, and finishes 15th June, 5pm GMT.
 
 #### Genre:
 
-The genre will be randomly selected from the list below at the very start of the contest:
+The genre for bbgchallenge6 is **PUZZLE**.
+
+##### Genre Selection
+
+The genre was randomly selected from the list below at the very start of the contest:
 
 * beat-em-up (a la streets of rage)
 * FPS

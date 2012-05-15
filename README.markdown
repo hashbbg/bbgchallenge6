@@ -26,7 +26,7 @@ The genre will be randomly selected from the list below at the very start of the
 * RTS
 * text-based adventure (predominantly text, other media used for mood)
 * management
-
+* nautical
 
 ## Rules
 

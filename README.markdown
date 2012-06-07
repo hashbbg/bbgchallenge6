@@ -4,7 +4,7 @@
 
 If you have an itch to work with friends, then feel free to team up and submit a team entry.  Every member has 12 hours, and the size of your team has to be disclosed with your submission.
 
-All the entries will be open sourced, too, so feel free to have a look at anyone's source code after the fact.  
+Entry's repos will be merged with this one, too, so feel free to have a look at anyone's source code after the fact.  
 
 #### Dates!
 

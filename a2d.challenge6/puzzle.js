@@ -210,6 +210,8 @@ function MazeEditor() {
 	});	
 }
 
-a2d.forceClear = true;
-PhysicsPuzzle()
-//MazeEditor();
+window.onload = function() {
+	a2d.forceClear = true;
+	PhysicsPuzzle()
+	//MazeEditor();
+};
